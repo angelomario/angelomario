@@ -1,6 +1,7 @@
 # Hi, i am Ângelo Mário ✌️
 
 [![Ângelo Mário's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=angelomario&show_icons=true&theme=synthwave#gh-dark-mode-only)](https://github.com/angelomario/github-readme-stats#gh-dark-mode-only)
+<br>
 
 <div  align="" style="display:flex; aligin-items:center;"> 
   <div style="display: inline_block"><br>
@@ -15,7 +16,6 @@
     <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=GitHub&logoColor=fffff"/>
      <br>
      <br>
-     <hr/>
     <strong>Frameworks</strong>
      <br>
     <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=76B900"/>
