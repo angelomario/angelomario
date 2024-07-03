@@ -14,12 +14,8 @@
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux&logoColor=ffff0"/>
     <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=GitHub&logoColor=fffff"/>
-     <br>
-     <br>
-    <strong>Frameworks</strong>
-     <br>
-    <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=76B900"/>
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+    <h3>Frameworks</h3>
+    <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=76B900"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 <hr>
 <br>
 <div style="display:flex; align-items:center;height:"50rem; justify-centent:center;">
