@@ -1,4 +1,3 @@
-# Hi, i am Ângelo Mário ✌️
 
 [![Ângelo Mário's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=angelomario&show_icons=true&theme=synthwave#gh-dark-mode-only)](https://github.com/angelomario/github-readme-stats#gh-dark-mode-only)
 <br>
